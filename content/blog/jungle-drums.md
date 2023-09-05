@@ -1,6 +1,6 @@
 ---
 external: false
-title: "BaTidal Cycles 001 - Jungle Drums"
+title: "Tidal Cycles 001 - Jungle Drums"
 description: "Tidal cycles is great, just great for creating all sorts of musical patterns"
 date: 2023-04-01
 ---
