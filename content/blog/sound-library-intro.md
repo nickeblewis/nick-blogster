@@ -1,6 +1,6 @@
 ---
 external: false
-draft: false
+draft: true
 title: "Sound Library"
 description: "I have always wanted to build a library of sounds, mainly generated using a variety of synths, as I enjoy sound design a great deal. The journey has begun..."
 date: 2023-09-02
