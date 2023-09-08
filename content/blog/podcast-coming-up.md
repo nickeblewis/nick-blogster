@@ -9,8 +9,6 @@ date: 2023-09-06
 # So far...
 My Podcast called Modulations is part of the [Substack newsletter](https://modulations.substack.com) of the same name and so far we've covered Tidal Cycles, semi-modular and last night's episode started to explore modular, since I am starting to build up a modular rig over the coming years.
 
-Write about what I've broadcast so far with links.
-
 # What to expect in the future
 ## Multi voice Coral and exploring it's signal path
 THe OXI Coral is a versatile module with a very clever interface but it takes a bit of learning to figure out how to use it. So in this podcast, have a listen to a middle aged man figure stuff out, especially the signal chain for the module. 
