@@ -1,5 +1,5 @@
 ---
-title: Publishing from Obsidian to nicklewis.blog
+title: Obsidian to blog publishing
 note: publish
 external: false
 draft: false
@@ -13,7 +13,7 @@ I have been using Obsidian for quite some time now as a "second brain", now who 
 I use it as a means of capturing ideas, thoughts, to join things together, to plan and to maintain something that I call my daily notes, a near-constant stream of conhere sciousness that I use to figure out what I am doi
 
 ￼￼Talkyard￼￼ looks interesting too
-Cloned Rach's site which runs locally for cheeky idea borrowingng now and how. I got tired of trying to blog, to complete a piece of writing and felt it much easier to share my notes instead, because my processes are always on the shift. I'll be happy to share these via [Mastodon](octodon.social@nicklewis) for further discourse! I'd love to know your thoughts on this and personal experiences.
+Cloned Rach's site which runs locally for cheeky idea borrowingng now and how. I got tired of trying to blog, to complete a piece of writing and felt it much easier to share my notes instead, because my processes are always on the shift. I'll be happy to share these via [Mastodon](octodon.social@nicklewis) for further discourse! I'd love to know your thoughts on this and personal experiences. ^698135
 
 Some would call it a "Digital Garden" as it's mostly about growing your ideas and hopefully not dying off!!
 ## Using Node.js to publish
