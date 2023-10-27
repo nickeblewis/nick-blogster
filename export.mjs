@@ -4,7 +4,7 @@ import { homedir } from "os";
 const vaultImagesPath = homedir() + "/Code/mindstorm/images";
 const vaultNotesPath = homedir() + "/Code/mindstorm";
 const siteImagesPath = homedir() + "/Code/nick-blogster/public/images";
-const siteNotesPath = homedir() + "/Code/nick-blogster/content/notes";
+const siteNotesPath = homedir() + "/Code/nick-blogster/content/blog";
 
 async function getNote(fileName) {
   const noteContent = await fsp.readFile(
