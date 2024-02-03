@@ -1,15 +1,15 @@
 import rss from "@astrojs/rss";
-import { blog } from "../lib/markdoc/frontmatter.schema";
+import { posts } from "../lib/markdoc/frontmatter.schema";
 import { readAll } from "../lib/markdoc/read";
 import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from "../config";
 
 export const get = async () => {
-  const posts = await readAll({
-    directory: "blog",
-    frontmatterSchema: blog,
+  const blogposts = await readAll({
+    directory: "posts",
+    frontmatterSchema: posts,
   });
 
-  const sortedPosts = posts
+  const sortedPosts = blogposts
     .filter((p) => p.frontmatter.draft !== true)
     .sort(
       (a, b) =>
@@ -38,7 +38,7 @@ export const get = async () => {
     const title = frontmatter.title;
     const pubDate = frontmatter.date;
     const description = frontmatter.description;
-    const link = `${baseUrl}/blog/${slug}`;
+    const link = `${baseUrl}/posts/${slug}`;
 
     return {
       title,

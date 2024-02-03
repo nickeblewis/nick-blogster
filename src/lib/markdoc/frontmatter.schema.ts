@@ -16,14 +16,14 @@ const baseSchema = z.object({
 
 /*
   Blog posts could be of two types —
-  1. The posts you write in markdown files in content/blog/*.md
+  1. The posts you write in markdown files in content/posts/*.md
   2. External posts in other websites
 
   That's why the frontmatter schema for blog posts is one of the two possible types.
   If you don't want to link posts written in external websites, you could
   simplify this to just use the markdown schema.
 */
-export const blog = z.discriminatedUnion("external", [
+export const posts = z.discriminatedUnion("external", [
   // markdown
   baseSchema.extend({
     external: z.literal(false),
