@@ -2,7 +2,7 @@
 title: Building a desktop studio 001
 note: publish
 external: false
-draft: false
+draft: true
 description: My synth building, sound exploration journal resumes here
 date: 2023-09-15
 slug: building-a-desktop-studio-001
