@@ -13,3 +13,5 @@ To be continued!!! I've a four year old who wants to go to the park!!!
 
 
 {% samply url="https://samply.app/embed/plXCi8vkkGhqeLZDLnsX" label="Everything is awesome - Lego movie song" /%}
+
+{% samply url="https://samply.app/embed/uy266XV3yYC6o2YHm2y3" label="Everything is awesome - Lego movie song" /%}
