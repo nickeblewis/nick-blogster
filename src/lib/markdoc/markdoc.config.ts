@@ -76,6 +76,14 @@ export const config: Config = {
       },
       selfClosing: true,
     },
+    samply: {
+      render: "Samply",
+      attributes: {
+        url: { type: String, required: true },
+        label: { type: String, required: true },
+      },
+      selfClosing: true,
+    },
     soundcloud: {
       render: "SoundCloudEmbed",
       attributes: {
