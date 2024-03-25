@@ -20,10 +20,12 @@ I am not just learning about sound design, synths and their programming but deep
 I am also going to code up some funky features for this site, such as interactive UI components for audio and photo galleries. It's going to be fun!
 
 ## The nerve centre
-!IMG_8522.jpeg
+![](/images/IMG_8522.jpeg)
 ## The fledgling modular rack
-!IMG_8523.jpeg
+![](/images/IMG_8523.jpeg)
 ## The semi-modular gear
-## AUMIMG_8523.jpeg
+## AUM
+!IMG_8523.jpeg  
 ## OP1 Field
 ## Norns
+## iPad
