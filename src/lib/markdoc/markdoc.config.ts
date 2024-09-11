@@ -76,6 +76,13 @@ export const config: Config = {
       },
       selfClosing: true,
     },
+    wavlake: {
+      render: "WavLakeEmbed",
+      attributes: {
+        url: { type: String, required: true },
+      },
+      selfClosing: true,
+    },
     samply: {
       render: "Samply",
       attributes: {

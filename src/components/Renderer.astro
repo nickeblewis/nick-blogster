@@ -2,6 +2,7 @@
 import { MarkdocRenderer } from "astro-markdoc-renderer";
 import type { Content } from "astro-markdoc-renderer";
 import YouTubeEmbed from "./YouTubeEmbed.astro";
+import WavLakeEmbed from "./WavLakeEmbed.astro";
 import Samply from "./Samply.astro"
 import SoundCloudEmbed from "./SoundCloudEmbed.astro";
 import TweetEmbed from "./TweetEmbed.astro";
@@ -27,6 +28,10 @@ const components = {
   },
   YouTubeEmbed: {
     Component: YouTubeEmbed,
+    props: {},
+  },
+  WavLakeEmbed: {
+    Component: WavLakeEmbed,
     props: {},
   },
   Samply: {
