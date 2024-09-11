@@ -21,3 +21,5 @@ I have [other tracks on Wavlake](https://wavlake.com/nick-eb-lewis) and will be 
 Check out the Wavlake dance charts over the past 21 days from the very moment you visit this page, which will change with each time you visit. Very dynamic!
 {% wavlake url="https://embed.wavlake.com/chart?days=21&limit=10&genre=dance" /%}
 
+Edited on iPad
+
