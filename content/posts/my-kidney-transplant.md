@@ -1,6 +1,6 @@
 ---
 note: publish
-title: Health update - In need of a second transplant
+title: Health update - In need of a second transplant?
 created: 2024-02-03
 external: false
 draft: false
@@ -10,6 +10,8 @@ slug: my-kidney-transplant
 ---
 
 Maybe this blog post should have been titled "Here we go again"? If you know me personally, be it as a friend or colleague, you will no doubt be aware that I am a transplant patient. 
+
+UPDATE: 12TH SEPT 2024 - By all means read on but we’ve reversed this situation a little bit thanks to a new drug my kidney function is now safely steady and improved a little bit, will write another post on this between now and Christmas. What a mixed up weird year this has turned out to be since I originally wrote this in February.
 
 ## The backstory
 The story begins way back in 2001 when I discovered that I had very high blood pressure and was admitted to hospital. I spent a few days there under medication, observation and despite feeling like 
