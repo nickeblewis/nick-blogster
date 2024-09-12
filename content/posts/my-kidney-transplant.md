@@ -1,6 +1,6 @@
 ---
 note: publish
-title: Health update - In need of a second transplant?
+title: Health update - In need of a second transplant
 created: 2024-02-03
 external: false
 draft: false
