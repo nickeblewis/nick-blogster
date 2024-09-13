@@ -1,10 +1,10 @@
-—
+---
 external: false
 draft: true
 title: “ModCaf - Test Chamber, an album review”
 description: “Its not often I get the chance to review a new album before its official launch, so I am very excited to be doing just that in the latest issue of Modulations”
 date: 2024-10-03
-—
+---
 
 If you have been following me for awhile or best of all subscribed to this newsletter, you will know that I am a member of ModCaf and have attended many of their meet-ups in Aldershot since last year.
 
