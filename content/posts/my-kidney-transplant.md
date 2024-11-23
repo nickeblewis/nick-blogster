@@ -11,6 +11,8 @@ slug: my-kidney-transplant
 
 Maybe this blog post should have been titled "Here we go again"? If you know me personally, be it as a friend or colleague, you will no doubt be aware that I am a transplant patient. 
 
+UPDATE: 12TH SEPT 2024 - By all means read on but we’ve reversed this situation a little bit thanks to a new drug my kidney function is now safely steady and improved a little bit, will write another post on this between now and Christmas. What a mixed up weird year this has turned out to be since I originally wrote this in February.
+
 ## The backstory
 The story begins way back in 2001 when I discovered that I had very high blood pressure and was admitted to hospital. I spent a few days there under medication, observation and despite feeling like 
 I shouldn't have been in the medical assessment unit, I felt fine, I didn't feel sick, rather slightly disturbed that something somewhere was indeed dangerously wrong. I was discharged at the end of that week but then attended a series of checkups with other specialists, my blood pressure was causing them more concern than it was I. I felt fit and healthy, ok maybe a bit tired at times.... fast forward to post transplant in 2008, I felt waaaaaay better in a way I couldn't quite believe, I'll tell you about that later.
