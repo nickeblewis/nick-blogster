@@ -2,7 +2,7 @@
 title: My plans for 2025
 note: publish
 external: false
-draft: false
+draft: true
 description: What does the year have in store for us all?
 date: 2025-01-21
 slug: plans-for-2025

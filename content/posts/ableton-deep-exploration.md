@@ -2,7 +2,7 @@
 title: Ableton deep dive
 note: publish
 external: false
-draft: false
+draft: true
 description: Getting to know my favourite DAW deeply
 date: 2025-01-21
 slug: ableton-deep-dive
